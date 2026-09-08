@@ -6,7 +6,7 @@ an atlas of 682,935 mouse T cells from 734 samples across 80 experiments,
 profiled by single-cell RNA-seq, 128-plex CITE-seq and paired αβ TCR
 sequencing, and organised into eight lineages and 107 reproducible clusters.
 
-**Site: <https://dzemmour.github.io/immgenT-cosmo-paper/>** — one page per
+**Site: <https://zemmourlab.github.io/immgenT-cosmo-paper/>** — one page per
 published figure, showing for each panel the code that produced it, the panel
 itself, and a caption.
 
